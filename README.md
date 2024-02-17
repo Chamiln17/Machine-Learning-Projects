@@ -1,6 +1,5 @@
-## This Repository Contains Projects I Made During My Learning Journey of Machine Learning
-
-These projects are parts of my journey of reading Hands On machine learning 3rd edition book
+## Overview
+This Repository Contains Projects I Made During My Learning Journey of Machine Learning, These projects are parts of my journey of reading Hands On machine learning 3rd edition book.
 
 
 ### Setting Up the Virtual Environment
