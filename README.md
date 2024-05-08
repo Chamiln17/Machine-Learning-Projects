@@ -1,8 +1,6 @@
-## This Repository Contains Projects I Made During My Learning Journey of Machine Learning
+## Overview
+This Repository Contains Projects I Made During My Learning Journey of Machine Learning, These projects are parts of my journey of reading Hands On machine learning 3rd edition book.
 
-I used for all of the projects a virtual environment (which is always recommended), more details about how to set it up will be shared soon!!
-
-Enjoy ....
 
 ### Setting Up the Virtual Environment
 
@@ -33,3 +31,6 @@ To set up the virtual environment, follow these steps:
 
 After activating the virtual environment, you can install the project requirements using pip. Simply run the following command:
 
+```
+pip install -r requirements.txt
+```
