@@ -2,4 +2,34 @@
 
 I used for all of the projects a virtual environment (which is always recommended), more details about how to set it up will be shared soon!!
 
-Enjoy
+Enjoy ....
+
+### Setting Up the Virtual Environment
+
+To set up the virtual environment, follow these steps:
+
+1. Open your terminal/command prompt.
+2. Run the following command to create a virtual environment named "ML_Projects":
+
+    ```
+    python3 -m venv ML_Projects
+    ```
+
+3. Activate the virtual environment:
+
+    - For Linux/Mac:
+
+    ```
+    source ./ML_Projects/bin/activate
+    ```
+
+    - For Windows:
+
+    ```
+    .\ML_Projects\Scripts\activate
+    ```
+
+### Installing Project Requirements
+
+After activating the virtual environment, you can install the project requirements using pip. Simply run the following command:
+
